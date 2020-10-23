@@ -97,6 +97,13 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 
 ## AxleCollarBearings
+<img src="https://github.com/Devon128/BasicCAD/blob/master/Images/Axle and Collar.png?raw=true" width="300">
+
+
+<img src="https://github.com/Devon128/BasicCAD/blob/master/Images/Bearing.png?raw=true" width="300">
+
+
+
 
 ### Description
 
